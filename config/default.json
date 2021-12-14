@@ -1,5 +1,5 @@
 {
-    "mongoURI": "mongodb+srv://Galatz:Healthcare123@cluster0.wmcay.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "mongoURI": "mongodb+srv://jash271:test@cluster0.prfuh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
     "jwtSecret": "Hethgala",
     "pusherKey": "b48cb6e685ac70d70a56",
     "pusherSecret": "415c68569015fd2cf0de"
